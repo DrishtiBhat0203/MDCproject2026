@@ -1,0 +1,264 @@
+2026-04-18 22:23:10.318082 - SQLi Detected: 'OR'1'='1, anything
+2026-04-18 22:42:57.556476 - SQLi Detected: admin, 'OR'1'='1
+2026-04-18 23:06:32.026782 - SQLi Detected! Risk:MEDIUM - Username : 'OR'1'='1,Password : anythingw
+2026-04-18 23:07:05.436867 - SQLi Detected! Risk:HIGH - Username : admin,Password : drop'
+
+      =====================
+      Time : 2026-04-18 23:36:44.845942
+      SessionID : d545bfea-3717-4cd1-b0c1-689058f2e4b8
+      Risk Level :MEDIUM
+      Attempts: 1 
+      Username : admin,
+      Password : *********
+      ======================
+      
+      =====================
+      Time : 2026-04-19 00:03:34.115459
+      SessionID : 4df9d2ea-688c-495a-8517-fbf7893b24ca
+      Risk Level :MEDIUM
+      Attempts: 1 
+      Username : admin,
+      Password : *********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 00:16:03.211090
+      SessionID : 2b3d0ebb-191a-4c49-bcfe-12bc9c4735c8
+      Risk Level :MEDIUM
+      Attempts: 1 
+      Username : admin,
+      Password : *********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 00:24:13.116816
+      SessionID : 18ae6a64-87d8-48ee-9db8-4f7274caf46c
+      Risk Level :MEDIUM
+      Attempts: 1 
+      Username : 'Or'1'='1,
+      Password : **********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 00:25:01.881992
+      SessionID : 6dc64f46-a9a9-44f6-bdd6-ccf4fe252d4c
+      Risk Level :MEDIUM
+      Attempts: 2 
+      Username : admin,
+      Password : *********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 00:25:19.974384
+      SessionID : da47728e-c901-4448-98f3-6881db4049bf
+      Risk Level :MEDIUM
+      Attempts: 3 
+      Username : admin,
+      Password : *********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 00:29:11.788739
+      SessionID : 85c6afae-7411-4dd1-a93b-bec874939f35
+      Risk Level :MEDIUM
+      Attempts: 4 
+      Username : abc,
+      Password : *********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 00:30:57.831991
+      SessionID : e2933a6b-31cd-4618-a9cf-8f6d053c6ecd
+      Risk Level :MEDIUM
+      Attempts: 1 
+      Username : admin,
+      Password : *********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 01:00:14.609366
+      SessionID : 91b71899-34cb-4315-b233-26723bd86b10
+      Risk Level :HIGH
+      Attempts: 2 
+      Username : drop'OR'1'='1,
+      Password : *****
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 01:00:39.054905
+      SessionID : cff6c616-32f6-43f4-8c06-270a0a69d810
+      Risk Level :LOW
+      Attempts: 3 
+      Username : ;jmd,
+      Password : ********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 01:01:56.852402
+      SessionID : 767137bb-073b-4954-8dbb-1cd2f6439bf2
+      Risk Level :MEDIUM
+      Attempts: 4 
+      Username : hello'OR'1'='1,
+      Password : ***
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 01:02:20.443549
+      SessionID : fd38639b-bac4-4deb-a792-0c4b6ac84b96
+      Risk Level :MEDIUM
+      Attempts: 5 
+      Username : 'OR'1'='1,
+      Password : ***
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 01:02:45.821251
+      SessionID : 490d6fb9-63c7-456b-8dad-4af398f60589
+      Risk Level :MEDIUM
+      Attempts: 1 
+      Username : hello'OR'1'='1,
+      Password : **
+      Status   : DETECTED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 01:03:03.663431
+      SessionID : 599a5c51-3b8b-4275-af57-a00f941bf5ff
+      Risk Level :HIGH
+      Attempts: 2 
+      Username : drop',
+      Password : ****
+      Status   : DETECTED
+      ======================
+      
+      =====================
+      Time : 2026-04-19 01:03:38.372567
+      SessionID : f2333bc2-2980-46a8-a20c-5b38f485d8b7
+      Risk Level :LOW
+      Attempts: 3 
+      Username : admin,
+      Password : ********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-20 14:43:20.316564
+      SessionID : 5f49eda8-97d4-40fc-a2ea-f63629094605
+      Risk Level :MEDIUM
+      Attempts: 4 
+      Username : 'Or'1'='1,
+      Password : ****
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-20 14:45:19.836776
+      SessionID : 269096d2-9bdb-42cf-b5dc-20c7961873f4
+      Risk Level :MEDIUM
+      Attempts: 1 
+      Username : 'OR'1'='1,
+      Password : ****
+      Status   : DETECTED
+      ======================
+      
+      =====================
+      Time : 2026-04-27 15:19:56.319558
+      SessionID : 58656716-70d7-4000-853b-37fe0e7bb433
+      Risk Level :MEDIUM
+      Attempts: 2 
+      Username : 'OR'1'='1,
+      Password : ********
+      Status   : DETECTED
+      ======================
+      
+      =====================
+      Time : 2026-04-27 15:32:56.234458
+      SessionID : 648c60df-aa24-41f3-b34a-86e6eb981f29
+      Risk Level :LOW
+      Attempts: 3 
+      Username : drop,
+      Password : ********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-28 23:03:49.735895
+      SessionID : ea5c9d93-f444-47c9-bdca-5a10a0be0c2b
+      Risk Level :LOW
+      Attempts: 3 
+      Username : drop,
+      Password : ********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-28 23:04:28.312257
+      SessionID : be0ae7bd-cfee-4276-b389-5ffd94edebf6
+      Risk Level :MEDIUM
+      Attempts: 3 
+      Username : drishti,
+      Password : *********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-29 03:02:28.113842
+      SessionID : 46e6ab99-f20e-4d92-88b0-0218424fd4ba
+      Risk Level :HIGH
+      Attempts: 3 
+      Username : drop'1'='1,
+      Password : ********
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-29 03:03:05.057466
+      SessionID : 99dafaa4-cef9-47ae-8d6e-9d45c46c71c5
+      Risk Level :HIGH
+      Attempts: 1 
+      Username : drop'1'='1,
+      Password : ****
+      Status   : DETECTED
+      ======================
+      
+      =====================
+      Time : 2026-04-29 03:03:53.332761
+      SessionID : 15a63b2b-aa69-4488-95a7-c362ba08350f
+      Risk Level :MEDIUM
+      Attempts: 2 
+      Username : 'OR'1'='1,
+      Password : ******
+      Status   : DETECTED
+      ======================
+      
+      =====================
+      Time : 2026-04-29 03:04:23.362750
+      SessionID : c4ded687-d266-4b89-b108-061ab05be8b2
+      Risk Level :HIGH
+      Attempts: 3 
+      Username : insert;123,
+      Password : *****
+      Status   : BLOCKED
+      ======================
+      
+      =====================
+      Time : 2026-04-29 03:05:13.319422
+      SessionID : c9904235-55cd-4811-ba84-ef569ebd7374
+      Risk Level :LOW
+      Attempts: 3 
+      Username : abcunion'1'='1,
+      Password : ******
+      Status   : BLOCKED
+      ======================
+      
